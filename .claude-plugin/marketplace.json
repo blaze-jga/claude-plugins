@@ -1,0 +1,26 @@
+{
+  "name": "local-plugins",
+  "owner": {
+    "name": "Blazej Galinski"
+  },
+  "plugins": [
+    {
+      "name": "playwright-aqa",
+      "description": "Comprehensive Playwright test automation suite with specialized agents for test planning, implementation, code review, and failure analysis.",
+      "source": "./playwright-aqa",
+      "category": "development"
+    },
+    {
+      "name": "ts-dev",
+      "description": "Comprehensive TypeScript development workflow including engineers, testers, and code reviewers.",
+      "source": "./ts-dev",
+      "category": "development"
+    },
+    {
+      "name": "arch-planning",
+      "description": "Requirements analysis, architecture design, and task breakdown tools for software projects.",
+      "source": "./arch-planning",
+      "category": "development"
+    }
+  ]
+}
