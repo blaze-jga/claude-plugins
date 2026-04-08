@@ -1,0 +1,20 @@
+{
+  "name": "playwright-aqa",
+  "version": "1.0.0",
+  "description": "Comprehensive Playwright test automation suite with specialized agents for test planning, implementation, code review, and failure analysis. Includes multi-agent workflow commands for complete test development and debugging lifecycle.",
+  "keywords": [
+    "playwright",
+    "testing",
+    "automation",
+    "aqa",
+    "e2e",
+    "typescript",
+    "javascript",
+    "test-automation",
+    "quality-assurance",
+    "test-planner",
+    "code-review",
+    "failure-analysis",
+    "flaky-tests"
+  ]
+}

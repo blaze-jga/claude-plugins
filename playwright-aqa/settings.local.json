@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx playwright test:*)",
+      "Bash(npx playwright:*)",
+      "Bash(ls:*)",
+      "mcp__playwright__browser_click",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_wait_for",
+      "Bash(NODE_PATH=. npx playwright test:*)"
+    ]
+  }
+}

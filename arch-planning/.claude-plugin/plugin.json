@@ -1,0 +1,13 @@
+{
+  "name": "arch-planning",
+  "version": "1.0.0",
+  "description": "Requirements analysis, architecture design, and task breakdown tools for software projects. Includes agents for gathering requirements, designing system architecture, creating technical specifications, and breaking down work into implementable tasks.",
+  "keywords": [
+    "architecture",
+    "requirements",
+    "design",
+    "planning",
+    "technical-design",
+    "task-breakdown"
+  ]
+}
